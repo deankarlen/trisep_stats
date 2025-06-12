@@ -50,9 +50,9 @@ Dean Karlen, University of Victoria and TRIUMF
  
  - A: [Basic analysis](notebooks/lifetime_A.ipynb)
    - descriptive statistics
- - B: [Model the lifetime experiment (perfect setup)](notebooks/radioactivity_B.ipynb)
+ - B: [Model the lifetime experiment (perfect setup)](notebooks/lifetime_B.ipynb)
    - rigorous confidence interval
- - C: [Include more complexity to the model](notebooks/radioactivity_C.ipynb)
+ - C: [Include more complexity to the model](notebooks/lifetime_C.ipynb)
    - includes: background process, time offset, and time resolution
    
  ### 3. T2K $\nu_e$ appearance analysis
